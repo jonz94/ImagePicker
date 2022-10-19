@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "name": "cordova-plugin-telerik-imagepicker",
   "cordova_name": "ImagePicker",
   "description": "This is a fork from https://github.com/Telerik-Verified-Plugins/ImagePicker",
